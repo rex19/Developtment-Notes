@@ -9,5 +9,6 @@ FrontEnd.  Linux .Javascript  etc..
   - [DOM常用api](https://github.com/rex19/Developtment-Notes/blob/master/Javascript/Js-DOM.md)
   - [Js类和实例的几种方式](https://github.com/rex19/Developtment-Notes/blob/master/Javascript/JsClass.md)
   - [Js-面向对象的几种方式和最优方式](https://github.com/rex19/Developtment-Notes/blob/master/Javascript/Js-oop.md)
+  - [错误监控](https://github.com/rex19/Developtment-Notes/blob/master/Javascript/Js-ErrorMonitoring.md)
 - [前端常用linux命令](https://github.com/rex19/Developtment-Notes/blob/master/FrontEnd%20Notes/FE%20and%20Linux.md)
 - [Webpack笔记](https://github.com/rex19/Developtment-Notes/blob/master/FrontEnd%20Notes/Webpack%20Note.md)
