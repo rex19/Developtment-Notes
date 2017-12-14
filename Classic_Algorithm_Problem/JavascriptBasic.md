@@ -66,5 +66,10 @@ const getPages = (total, itemsPerPage) =>{
 ```
 
 ```jsx
-const getPages = (total, itemsPerPage) => itemsPerPage && Math.ceil(total/itemsPerPage)
+function getPages(total, itemsPerPage) {
+  if (!itemsPerPage) {
+    return 0
+  }
+  return Math.ceil(total / itemsPerPage)
+}
 ```

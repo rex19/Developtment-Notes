@@ -12,3 +12,5 @@ FrontEnd.  Linux .Javascript  etc..
   - [错误监控](https://github.com/rex19/Developtment-Notes/blob/master/Javascript/Js-ErrorMonitoring.md)
 - [前端常用linux命令](https://github.com/rex19/Developtment-Notes/blob/master/FrontEnd%20Notes/FE%20and%20Linux.md)
 - [Webpack笔记](https://github.com/rex19/Developtment-Notes/blob/master/FrontEnd%20Notes/Webpack%20Note.md)
+- [每日一道算法题笔记](https://github.com/rex19/Developtment-Notes/blob/master/Classic_Algorithm_Problem)
+  - [Javascript相关](https://github.com/rex19/Developtment-Notes/blob/master/Classic_Algorithm_Problem/JavascriptBasic.md)
