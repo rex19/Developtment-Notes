@@ -119,3 +119,22 @@ const singletonify = fn => {
   })
 }
 ```
+
+## 数组去重
+```jsx
+//编写一个函数 unique(arr)，返回一个去除数组内重复的元素的数组。例如：
+unique([0, 1, 2, 2, 3, 3, 4]) // => [0, 1, 2, 3, 4]
+unique([0, 1, '1', '1', 2]) // => [0, 1, '1', 2]
+```
+
+```jsx
+const unique = (arr) => [...new Set(arr)]
+//或者
+const unique = (arr) => {
+ var item = typeof arr[0] === 'undefined' ? [] : [arr[0]];
+ for (var i=1; i<arr.length; i++) {
+  item.indexOf(arr[i]) === -1 && item.push(arr[i])
+ }
+
+ return item;
+}
